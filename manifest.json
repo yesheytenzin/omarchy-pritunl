@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "tenzin.pritunl",
+  "name": "Pritunl",
+  "version": "1.0.0",
+  "author": "tenzin",
+  "description": "Click to connect or disconnect your Pritunl VPN profile",
+  "kinds": ["bar-widget"],
+  "entryPoints": { "barWidget": "BarWidget.qml" },
+  "barWidget": { "displayName": "Pritunl", "description": "Connect or disconnect your Pritunl VPN profile", "category": "System", "allowMultiple": false, "defaultSection": "right" }
+}

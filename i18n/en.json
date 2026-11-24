@@ -1,0 +1,7 @@
+{
+  "title": "Pritunl VPN",
+  "connected": "Connected",
+  "connecting": "Connecting…",
+  "disconnected": "Disconnected",
+  "noProfile": "No Pritunl profile configured"
+}
